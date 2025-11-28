@@ -3,7 +3,7 @@ import React from "react";
 const SocialLogin = () => {
   return (
     <div>
-      <h3 className="mb-2 flex justify-center text-blue-400">
+      <h3 className="mb-2 flex justify-start text-primary">
         <strong>Log in with</strong>
       </h3>
       <div className="googleLogo">
